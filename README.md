@@ -1,0 +1,2 @@
+# SoundWave
+Discord Music Bot

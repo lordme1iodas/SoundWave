@@ -1,7 +1,7 @@
 {
-  "name": "EvoBot",
+  "name": "Soundwave",
   "description": "🤖 Discord Music Bot built with discord.js",
-  "repository": "https://github.com/eritislami/evobot",
-  "logo": "https://i.imgur.com/JFxgbWH.png",
+  "repository": "https://github.com/lordme1iodas/SoundWave/",
+  "logo": "https://avatars3.githubusercontent.com/u/57133270?s=460&u=99dabe8fa58738fa5e5598498e5ec15ec0b7638d&v=4",
   "keywords": ["discord", "discordjs", "music", "bot"]
 }
